@@ -6,6 +6,7 @@ using static System.Console;
 
 WriteLine("Testing new C# 11 Features...!");
 
+/*
 StringLiterals stringLiterals = new();
 WriteLine(stringLiterals.EscapeStringOld());
 WriteLine(stringLiterals.EscapeStringNew());
@@ -17,6 +18,10 @@ WriteLine(stringLiterals.JsonAsTextNew());
 
 WriteLine("Json As Text with string interpolation new");
 WriteLine(stringLiterals.JsonWithStringInterpolationNew());
+*/
 
+
+ListPatterns listPatterns = new();
+listPatterns.IntPattern();
 
 ReadLine();
