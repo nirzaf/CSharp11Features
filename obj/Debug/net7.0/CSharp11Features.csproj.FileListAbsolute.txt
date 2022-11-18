@@ -1,0 +1,15 @@
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\bin\Debug\net7.0\CSharp11Features.exe
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\bin\Debug\net7.0\CSharp11Features.deps.json
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\bin\Debug\net7.0\CSharp11Features.runtimeconfig.json
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\bin\Debug\net7.0\CSharp11Features.dll
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\bin\Debug\net7.0\CSharp11Features.pdb
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.dll
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\refint\CSharp11Features.dll
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.pdb
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\CSharp11Features.genruntimeconfig.cache
+C:\Users\mmfazrin\RiderProjects\CSharp11Features\obj\Debug\net7.0\ref\CSharp11Features.dll
