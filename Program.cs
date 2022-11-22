@@ -22,7 +22,7 @@ WriteLine(stringLiterals.JsonWithStringInterpolationNew());
 
 var input = ReadLine();
 
-var key = "QWWQWQWASASA";
+var key = "Q";
 
 var encrypted = Encryption.Encrypt(input, key);
 
