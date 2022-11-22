@@ -22,10 +22,21 @@ WriteLine(stringLiterals.JsonWithStringInterpolationNew());
 
 var input = ReadLine();
 
-int number = int.Parse(input);
+var key = "QWWQWQWASASA";
 
-//Check if number is composite or not
-WriteLine(number.IsComposite().ToString());
+var encrypted = Encryption.Encrypt(input, key);
+
+WriteLine($"Encrypted: {encrypted}");
+
+var decrypted = Encryption.Decrypt(encrypted, key);
+
+WriteLine($"Decrypted: {decrypted}");
+
+ReadLine();
+
+// int number = int.Parse(input);
+//
+// WriteLine(number.IsComposite().ToString());
 
 
 
@@ -33,4 +44,3 @@ WriteLine(number.IsComposite().ToString());
 ListPatterns listPatterns = new();
 listPatterns.IntPattern();
 
-ReadLine();
