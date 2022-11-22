@@ -20,6 +20,15 @@ WriteLine("Json As Text with string interpolation new");
 WriteLine(stringLiterals.JsonWithStringInterpolationNew());
 */
 
+var input = ReadLine();
+
+int number = int.Parse(input);
+
+//Check if number is composite or not
+WriteLine(number.IsComposite().ToString());
+
+
+
 
 ListPatterns listPatterns = new();
 listPatterns.IntPattern();
